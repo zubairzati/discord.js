@@ -12,7 +12,7 @@
     <a href="https://www.patreon.com/discordjs"><img src="https://img.shields.io/badge/donate-patreon-F96854.svg" alt="Patreon" /></a>
   </p>
 </div>
-
+## i added
 ## About
 
 discord.js is a powerful [Node.js](https://nodejs.org) module that allows you to easily interact with the
